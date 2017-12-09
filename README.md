@@ -23,6 +23,8 @@ con tu cuenta en npmjs
 
 $   npm adduser
 
+$  npm pack
+
 $   npm publish
 
 
