@@ -1,0 +1,26 @@
+{
+  "name": "censura",
+  "version": "2.1.0",
+  "description": "censurar es bueno",
+  "main": "censortext.js",
+  "repository" : {
+    "type": "git",
+    "url" : "git remote add origin https://github.com/JAreina/censura.git"
+
+
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "censurar",
+    "palabras",
+    "texto"
+  ],
+  "author": "JAreina",
+  "license": "MIT",
+  "engines": {
+     "node": "*"
+  },
+  "dependencies":{}
+}

@@ -1,0 +1,14 @@
+{
+  "name": "readwords",
+  "version": "1.0.0",
+  "description": "leer palabras",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JAreina",
+  "license": "MIT",
+  "dependencies": {
+    "censura": "file:///home/juan/SERVIDORES/2017-12-LIBROS/NODE-SMTE/1-node-js,mongodb-angular/1-censorify/censura-2.1.0.tgz"
+  }
+}
